@@ -1,0 +1,44 @@
+_repo: The-Tinder-Box_14863
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daviess, Maria Thompson
+    birthdate: 1872
+    deathdate: 1924
+    gutenberg_agent_id: '1284'
+    url: http://www.gutenberg.org/2009/agents/1284
+description: All love is a gas, and it takes either loneliness, strength of character,
+  or religion to liquefy it into a condition to be ladled out of us, one to another.
+  There is a certain dangerously volatile state of it; and occasionally people, especially
+  of opposite sexes, try to administer it to each other in that form, with asphyxiation
+  resulting to both hearts. And I'm willing to confess that it is generally a woman's
+  fault when such an accident occurs. That is, it is a mistake of her nature, not
+  one of intent. But she is learning! Also when a woman is created, the winds have
+  wooed star-dust, rose-dew, peach-down, and a few flint-shavings into a whirlwind
+  of deviltry, and the world at large looks on in wonder and sore amazement, as well
+  as breathless interest. I know, because I am one, and have just been waked up by
+  the gyrations of the cyclone; and I'm deeply confounded. I don't like it, and wish
+  I could have slept longer, but Fate and Jane Mathers decreed otherwise. At least
+  Jane decreed, and Fate seems so far helpless to controvert the decree.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14863'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Suffrage -- Fiction'
+- !lcsh 'Tennessee -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Harpeth Valley (Tenn.) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Sex differences -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Sex role -- Fiction'
+title: The Tinder-Box
+url: http://www.gutenberg.org/ebooks/14863
